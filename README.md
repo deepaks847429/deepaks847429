@@ -9,7 +9,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Reactjs and NOdejs
 - 👯 I’m looking to collaborate with software developers.
 - 💬 Ask me about technologies, programming questions.
-
 # 💫 About Me:
 I am currently working on my DSA skills, I prefer to code in c++. I did some web development projects, and currently, i am learning React and node framework.<br>I am looking forward to collaborate with software developers.<br>I have great interest in reading about new technologies and try to implement in real life.
 
