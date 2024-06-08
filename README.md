@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on my DSA skills, I prefer to code in c++. I did some web development projects, and currently, i am learning React and node framework.<br>I am looking forward to collaborate with software developers.<br>I have great interest in reading about new technologies and try to implement in real life.
+I am a full stack web developer, I prefer to code in c++, java, javascript. I did some web development projects, and currently, i am learning React and node framework.<br>I am looking forward to collaborate with software developers.<br>I have great interest in reading about new technologies and try to implement in real life.
 
 
 ## 🌐 Socials:
